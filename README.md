@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi !
+### I'm currently studying at the Community College of Troyes (IUT de Troyes) in Multimedia and Internet
+
 
 <!--
 **jpayet/jpayet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
