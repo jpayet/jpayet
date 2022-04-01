@@ -1,7 +1,7 @@
 **Hi !** <br />
-I'm a Junior Back-End Developer looking for a work-study contract. <br />
-I'm currently studying at the Community College of Troyes (IUT de Troyes) in Multimedia and Internet.
-On my GitHub you could find some of my projects
+I'm a Junior Back-End Developer looking for a work-study contract, I currently studying at the Community College of Troyes (IUT de Troyes) in Multimedia and Internet. <br />.
+I start code one year ago then I decided to join that training in order to discover more and practise in this field. <br />
+I master programming languages HTML, CSS and I'm acquiring Javascript for the Front development and for the Back I master PHP and MYSQL. <br />
 
 
 
