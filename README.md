@@ -1,5 +1,6 @@
 ### Hi !
-### I'm currently studying at the Community College of Troyes (IUT de Troyes) in Multimedia and Internet
+
+I'm currently studying at the Community College of Troyes (IUT de Troyes) in Multimedia and Internet
 
 
 <!--
