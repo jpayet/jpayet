@@ -1,7 +1,7 @@
 **Hi !** <br />
 I'm a Junior Back-End Developer looking for a work-study contract.
 I'm currently studying at the Community College of Troyes (IUT de Troyes) in Multimedia and Internet.
-On my GitHub we could find some of my projects
+On my GitHub you could find some of my projects
 
 
 
