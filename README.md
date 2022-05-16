@@ -1,5 +1,5 @@
 Hi ! <br />
-<strong> I'm <em>web developer </em> - <em> student at the IUT of Troyes in Multimédia and Internet </em> (BAC +1 to BAC +3) </strong> <br />
+<h3> I'm <em>web developer </em> - <em> student at the IUT of Troyes in Multimédia and Internet </em> (BAC +1 to BAC +3) </h3> <br />
 
 Start Coding in 2020 in High School, I learnt <em> Python </em> basics and Front development <em> (HTML-CSS) </em>. Then I decided to join the University to improve my web development skills. 
 
@@ -9,7 +9,7 @@ On my github, you could find some of my work that I'm or was working on. <br />
 
 <a href="https://github.com/jpayet?tab=repositories" alt="repositories"> Let's take a look ! </a>
 
-<h3> Languages, tools and IDE </h3> 
+<h3> Languages, tools and IDE :</h3> 
 
 <a href="https://getbootstrap.com" target="_blank">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
