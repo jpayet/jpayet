@@ -1,9 +1,9 @@
 Hi ! <br />
 <h3> I'm <em>web developer </em> - <em> student at the IUT of Troyes in Multimédia and Internet </em> (BAC +1 to BAC +3) </h3> <br />
 
-Start Coding in 2020 in High School, I learnt <em> Python </em> basics and Front development <em> (HTML-CSS) </em>. Then I decided to join the University to improve my web development skills. 
+Start Coding in 2020 in High School, I learnt <strong><em> Python </em></strong> basics and Front development <em> (HTML-CSS) </em>. Then I decided to join the University to improve my web development skills. 
 
-Today I'm currently studying <strong> Front-End development </strong> <em> (HTML-CSS-JS) </em> but I'm major in <strong> Back-End development </strong> <em> (PHP-MYSQL) </em>. 
+Today I'm currently studying <span color="#555562"><strong> Front-End development </strong></span> <em> (HTML-CSS-JS) </em> but I'm major in <strong> Back-End development </strong> <em> (PHP-MYSQL) </em>. 
 
 On my github, you could find some of my work that I'm or was working on. <br />
 
