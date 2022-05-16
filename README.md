@@ -5,7 +5,7 @@ Start Coding in 2020 in High School, I learnt 🐍Python basics and Front develo
 Today I'm currently studying **Front-End development** (HTML-CSS-JS) but I'm major in **Back-End development** (PHP-MYSQL). 
 On my github, you could find some of my work that I'm or was working on. <br />
 
-Take a look ! 
+[Let's take a look !](https://github.com/jpayet?tab=repositories)
 
  
   
