@@ -1,5 +1,5 @@
 Hi ! <br />
-<h3> I'm <em>web developer </em> - <em> student at the IUT of Troyes in Multimédia and Internet </em> (BAC +1 to BAC +3) </h3> <br />
+<h3> I'm <em>web developer </em> - <em> student in Multimédia and Internet at the IUT of Troyes </em> (BAC +1 to BAC +3) </h3> <br />
 
 Start Coding in 2020 in High School, I learnt <strong> Python </strong> basics and <strong> Front development <strong><em> (HTML-CSS) </em>. Then I decided to join the University to improve my web development skills. 
 
