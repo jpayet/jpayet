@@ -1,7 +1,7 @@
 Hi ! <br />
 <h3> I'm <em>web developer </em> - <em> student in Multimédia and Internet at the IUT of Troyes (BAC +1 actually) </em></h3> <br />
 
-Start Coding in 2020 in High School, I learnt <strong> Python basics </strong> and <strong> Front development <em> (HTML-CSS) </em></strong>. Then I decided to join the University to improve my web development skills. 
+I start Coding in 2020 in High School, I learnt <strong> Python basics </strong> and <strong> Front development <em> (HTML-CSS) </em></strong>. Then I decided to join the University to improve my web development skills. 
 
 Today I'm currently studying <strong> Front-End development <em> (HTML-CSS-JS) </em></strong> but I'm major in <strong> Back-End development <em> (PHP-MYSQL) </em></strong>. 
 
