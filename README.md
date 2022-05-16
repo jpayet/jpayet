@@ -1,5 +1,8 @@
  Bonjour, <br />
- **je suis *développeur web* [/color] - *étudiant en Bachelor Universitaire en Métiers du Multimédia et d' l'Internet* (BUT MMI).**
+ **je suis _développeur web_ - _étudiant en Bachelor Universitaire en Métiers du Multimédia et d' l'Internet_ (BUT MMI).**
+ \---
+ 
+ 
   
   
  
