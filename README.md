@@ -52,14 +52,19 @@
 
 ###
 
-<p align="left"><b><a href="https://jean-francoispayet.fr/">Discover my portfolio</b>></p>
+<p align="left"><b><a href="https://jean-francoispayet.fr/">Discover my portfolio</b></p>
 
 <p align="left"><b>My lastest projects :</b></p>
 
 ###
 
-<p align="left">
- <a href="https://github.com/jpayet/PokedexApp">📱Pokedex App in React Native</a>
-</p>
+<ul>
+  <li>
+    <p align="left">
+     <a href="https://github.com/jpayet/PokedexApp">Pokedex App in React Native</a> 📱
+    </p>
+  </li>
+</ul>
+
 
 ###
