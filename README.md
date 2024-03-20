@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Jean-François, a Full Stack developer</p>
+<p align="left">I'm Jean-François, a junior Full Stack developer</p>
 
 ###
 
