@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Student in Multimedia and Internet (Bachelor's degree) - IUT of Troyes<br>💡Currently learning React Native</p>
+<p align="left">🎓 Student in Multimedia and Internet (Bachelor's degree) - IUT of Troyes<br>🌱 Currently learning React Native</p>
 
 ###
 
@@ -61,7 +61,12 @@
 <ul>
   <li>
     <p align="left">
-     <a href="https://github.com/jpayet/PokedexApp">Pokedex App in React Native</a> 📱
+      <a href="https://github.com/jpayet/EscapeGameVR-JPPStudio">Escape Game VR</a> 🎮
+    </p>
+  </li>
+  <li>
+    <p align="left">
+      <a href="https://github.com/jpayet/PokedexApp">Pokedex App in React Native</a> 📱
     </p>
   </li>
 </ul>
