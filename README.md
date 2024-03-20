@@ -68,3 +68,10 @@
 
 
 ###
+
+<h2 align="left">Some stats</h2>
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jpayet&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide=HTML,CSS)
+
+
+
