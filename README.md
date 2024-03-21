@@ -61,12 +61,12 @@
 <ul>
   <li>
     <p align="left">
-      <a href="https://github.com/jpayet/EscapeGameVR-JPPStudio">Escape Game VR</a> 🎮
+      <a href="https://github.com/jpayet/EscapeGameVR-JPPStudio">Escape Game VR</a> 🎮 - <i>Unity</i>
     </p>
   </li>
   <li>
     <p align="left">
-      <a href="https://github.com/jpayet/PokedexApp">Pokedex App in React Native</a> 📱
+      <a href="https://github.com/jpayet/PokedexApp">Pokedex App</a>📱- <i>React Native</i>
     </p>
   </li>
 </ul>
