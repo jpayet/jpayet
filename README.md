@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Higher education graduate (Bachelor's degree) - IUT of Troyes<br>🌱 </p>
+<p align="left">🎓 Higher education graduate (Bachelor's degree) </p>
 
 ###
 
