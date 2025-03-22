@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Student in Multimedia and Internet (Bachelor's degree) - IUT of Troyes<br>🌱 Currently learning React Native</p>
+<p align="left">🎓 Higher education graduate (Bachelor's degree) - IUT of Troyes<br>🌱 </p>
 
 ###
 
